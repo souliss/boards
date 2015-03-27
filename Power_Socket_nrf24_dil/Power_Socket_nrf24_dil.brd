@@ -28,12 +28,12 @@
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="yes"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
@@ -2160,7 +2160,7 @@ design rules under a new name.</description>
 <element name="C1" library="resistor" package="C1206" value="100nf" x="-49.53" y="37.338" rot="MR180"/>
 <element name="C2" library="resistor" package="C1206" value="100nf" x="-63.5" y="3.302" rot="MR180"/>
 <element name="C3" library="resistor" package="E2,5-6" value="220uF" x="-23.114" y="23.114" rot="R270"/>
-<element name="C4" library="resistor" package="E2,5-6" value="220uF" x="-58.928" y="3.302"/>
+<element name="C4" library="resistor" package="E2,5-6" value="1000uF" x="-58.928" y="3.302"/>
 <element name="IC2" library="adafruit" package="DIL28-3" value="ATMEGA168-20P" x="-61.722" y="37.846" rot="R180"/>
 <element name="Q1" library="SparkFun" package="HC49U-V" value="" x="-71.882" y="47.244"/>
 <element name="C5" library="resistor" package="C0805K" value="22pf" x="-67.056" y="46.99" rot="MR90"/>

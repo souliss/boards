@@ -14306,7 +14306,7 @@ USART&lt;p&gt;
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="+3V3" library="supply1" deviceset="+3V3" device=""/>
 <part name="C3" library="resistor" deviceset="CPOL-EU" device="E2.5-6" value="220uF"/>
-<part name="C4" library="resistor" deviceset="CPOL-EU" device="E2.5-6" value="220uF"/>
+<part name="C4" library="resistor" deviceset="CPOL-EU" device="E2.5-6" value="1000uF"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="IC2" library="adafruit" deviceset="ATMEGA168*P" device="" technology="-20"/>
