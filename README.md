@@ -1,7 +1,5 @@
-# boards
+# Introduction
 Source files for Arduino based boards designed for Souliss
-
-## Introduction
 
 Souliss runs on most of the Arduino compatible boards (with AVR microcontroller) and a complete list of compatible boards is avialable in the [wiki](https://github.com/souliss/souliss/wiki) and in the relevant [hardware](https://github.com/souliss/souliss/wiki/Supported%20Hardware%20Platform) section.
 
@@ -16,4 +14,5 @@ The powersocket is a small radio node (2.4 GHz based on Nordic nRF24L01) that al
 Two design are available:
   
   [Power socket based on Arduino MINI](https://github.com/souliss/boards/tree/master/Power_Socket_nrf24_mini)
+  
   [Power socket based on Atmel ATmega328P](https://github.com/souliss/boards/tree/master/Power_Socket_nrf24_dil)
