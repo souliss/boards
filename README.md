@@ -13,6 +13,5 @@ The powersocket is a small radio node (2.4 GHz based on Nordic nRF24L01) that al
 
 Two design are available:
   
-  [Power socket based on Arduino MINI](https://github.com/souliss/boards/tree/master/Power_Socket_nrf24_mini)
-  
-  [Power socket based on Atmel ATmega328P](https://github.com/souliss/boards/tree/master/Power_Socket_nrf24_dil)
+* [Power socket based on Arduino MINI](https://github.com/souliss/boards/tree/master/Power_Socket_nrf24_mini)
+* [Power socket based on Atmel ATmega328P](https://github.com/souliss/boards/tree/master/Power_Socket_nrf24_dil)
