@@ -1,0 +1,123 @@
+Export log for : BOB_With_Poly.Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle EF119X56TOP1
+AddingPadStyle EF51X37TOP1
+AddingPadStyle EF14X28TOP1
+AddingPadStyle P:EX71Y71D391
+AddingPadStyle P:PX71Y71D391
+AddingPadStyle EF24X45TOP1
+AddingPadStyle EF24X43TOP1
+AddingPadStyle EF130X55TOP1
+AddingPadStyle EF71X43TOP1
+AddingPadStyle EF100X38TOP1
+AddingPadStyle EF86X80TOP1
+AddingPadStyle EF69X47TOP1
+AddingPadStyle EF47X79TOP1
+AddingPadStyle EF67X41TOP1
+AddingPadStyle EF22X69TOP1
+AddingPadStyle EF22X48TOP1
+AddingPadStyle EF134X63TOP1
+AddingPadStyle EF40X182TOP1
+AddingPadStyle EF59X59TOP1
+AddingPadStyle P:EX36Y36D361
+AddingPadStyle EF48X99TOP1
+AddingPadStyle EF30X60TOP1
+AddingPadStyle EF44X40TOP1
+AddingPadStyle EF63X71TOP1
+AddingPadStyle EF18X75TOP1
+AddingPadStyle EF50X58TOP1
+AddingPadStyle P:EX34Y34D341
+AddingPadStyle EF16X56TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX39Y39D201
+Adding ViaStyle V:EX50Y50D281
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H60W5
+Adding TextStyle T:H50W8
+Adding TextStyle T:H34W5
+Adding TextStyle T:H78W10
+Adding TextStyle T:H60W6
+Adding TextStyle T:H27W3
+Adding TextStyle T:H25W10
+Adding TextStyle T:H14W1
+Adding TextStyle T:H37W10
+Adding TextStyle T:H62W10
+Adding TextStyle T:H60W61
+Adding TextStyle T:H28W10
+Adding TextStyle T:H39W10
+Adding PatternDef PANASONIC_D_1
+Adding PatternDef PANASONIC_D_2
+Adding PatternDef RES 0805 (2012X06L)_1
+Adding PatternDef mic94060_1
+Adding PatternDef HDR2X3_1
+Adding PatternDef SMD_CAP_0805_1
+Adding PatternDef RES 0805 (2012X06L)_2
+Adding PatternDef RES 0805 (2012X06L)_3
+Adding PatternDef Micro3_N_1
+Adding PatternDef HDR2X4_1
+Adding PatternDef MCP1640_1
+Adding PatternDef INDC4532_1
+Adding PatternDef INDC3216_1
+Adding PatternDef 4P-SMD-2.0_1
+Adding PatternDef HDR2X5_1
+Adding PatternDef LL4148_1
+Adding PatternDef CAPP 1206 (3216X18L) Size A_1
+Adding PatternDef SMD_CAP_1206_1
+Adding PatternDef 44ML_N_1
+Adding PatternDef SOT23-5_1
+Adding PatternDef JST-2-SMD_1
+Adding PatternDef LED SMD 1206_1
+Adding PatternDef SWITCH-SPDT-SMD_1
+Adding PatternDef TACTILE_SWITCH_SMD_1
+Adding PatternDef 0603-CAP_1
+Adding PatternDef 0603-CAP_2
+Adding PatternDef 0603-CAP_3
+Adding PatternDef 0603-CAP_4
+Adding PatternDef 0603-CAP_5
+Adding PatternDef 1206_1
+Adding PatternDef RESONATOR-SMD_1
+Adding PatternDef SMA-DIODE_1
+Adding PatternDef USB-AB-MICRO-SMD_V03_1
+Adding PatternDef 4P-SMD-2.0_2
+Adding CompDef PANASONIC_D_1
+Adding CompDef PANASONIC_D_2
+Adding CompDef RES 0805 (2012X06L)_1
+Adding CompDef mic94060_1
+Adding CompDef HDR2X3_1
+Adding CompDef SMD_CAP_0805_1
+Adding CompDef RES 0805 (2012X06L)_2
+Adding CompDef RES 0805 (2012X06L)_3
+Adding CompDef Micro3_N_1
+Adding CompDef HDR2X4_1
+Adding CompDef MCP1640_1
+Adding CompDef INDC4532_1
+Adding CompDef INDC3216_1
+Adding CompDef 4P-SMD-2.0_1
+Adding CompDef HDR2X5_1
+Adding CompDef LL4148_1
+Adding CompDef CAPP 1206 (3216X18L) Size A_1
+Adding CompDef SMD_CAP_1206_1
+Adding CompDef 44ML_N_1
+Adding CompDef SOT23-5_1
+Adding CompDef JST-2-SMD_1
+Adding CompDef LED SMD 1206_1
+Adding CompDef SWITCH-SPDT-SMD_1
+Adding CompDef TACTILE_SWITCH_SMD_1
+Adding CompDef 0603-CAP_1
+Adding CompDef 0603-CAP_2
+Adding CompDef 0603-CAP_3
+Adding CompDef 0603-CAP_4
+Adding CompDef 0603-CAP_5
+Adding CompDef 1206_1
+Adding CompDef RESONATOR-SMD_1
+Adding CompDef SMA-DIODE_1
+Adding CompDef USB-AB-MICRO-SMD_V03_1
+Adding CompDef 4P-SMD-2.0_2
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+ 
+EndLog
