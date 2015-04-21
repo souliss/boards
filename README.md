@@ -18,9 +18,7 @@ Two design are available:
 * [Power socket based on Atmel ATmega328P](https://github.com/souliss/boards/tree/master/Power_Socket_nrf24_dil)
 
 ### Battery Operated Board
-![](https://github.com/yoosofpiran/Hardware/blob/MyBranch/Battery_Operated_Board/Ver1/Altium/Picture/1.PNG)
 
-#Overview
 The Battery Operated Board is a microcontroller board based on the ATmega32u4. It has digital input/output and Analoge 4 pin Grove connector,UEXT connector, an 8 MHz resonator, a micro USB connection, a JST connector for a 3.7V LiPo battery, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a battery to get started.
 
 the ATmega32u4 has built-in USB communication, eliminating the need for a separate USB-to-serial adapter. This allows the Battery Operated Board to appear to a connected computer as a mouse and keyboard, in addition to a virtual (CDC) serial / COM port. 
