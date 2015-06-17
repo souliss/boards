@@ -5,7 +5,7 @@ Souliss runs on most of the Arduino compatible boards (a complete list of compat
 
 ## Battery Operated Board
 
-!()[https://raw.githubusercontent.com/souliss/boards/master/Battery_Operated_Board/Ver1/Altium/Pictures/2d.png]
+![](https://raw.githubusercontent.com/souliss/boards/master/Battery_Operated_Board/Ver1/Altium/Pictures/2d.png)
 
 The Battery Operated Board is a microcontroller board based on the ATmega32u4. It has digital input/output and Analoge 4 pin Grove connector,UEXT connector, an 16 MHz resonator, a micro USB connection, a JST connector for a 3.7V LiPo battery, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a battery to get started.
 
